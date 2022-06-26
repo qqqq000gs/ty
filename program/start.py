@@ -110,7 +110,7 @@ async def start(client: Client, message: Message):
             ],
             [
                 InlineKeyboardButton(
-                    "𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ", url=f"https://t.me/T_8_T_T"
+                    "𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ", url=f"https://t.me/X_8_00"
                 ),
             ],
             [
@@ -128,7 +128,7 @@ async def help(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("𓌹𝚅𝙾𝚃𝙻𝚇 ", url=f"https://t.me/votlx"),
+                InlineKeyboardButton("𓌹𝚅𝙾𝚃𝙻𝚇 ", url=f"https://t.me/X_8_00"),
             ],
             [
                 InlineKeyboardButton(
