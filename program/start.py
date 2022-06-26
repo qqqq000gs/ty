@@ -106,7 +106,7 @@ async def start(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("𝚅𝙾𝚃𝙻𝚇 ", url=f"https://t.me/votlx"),
+                InlineKeyboardButton("𝚅𝙾𝚃𝙻𝚇 ", url=f"https://t.me/X_8_00"),
             ],
             [
                 InlineKeyboardButton(
